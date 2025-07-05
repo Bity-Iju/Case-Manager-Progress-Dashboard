@@ -1,2 +1,3 @@
 # Case-Manager-Progress-Dashboard
-ntegrated dataset tracks HIV care: demographics, ART timelines (start/current regimens, viral load), comorbidities (TB/cancer screening), interventions (EAC/DSD), and biometric ID. Enables treatment monitoring, personalized care, and data-driven public health decisions.
+Integrated dataset tracks HIV care: demographics, ART timelines (start/current regimens, viral load), comorbidities (cancer screening),  and biometric ID. Enables treatment monitoring, personalized care, and data-driven public health decisions. It is robust case manager template can significantly streamline your workflow, enhance efficiency, and provide valuable insights into your performance. Here's a suggested template that incorporates features to identify gaps, visualize monthly performance, and track initial gaps and achievements
+![Screenshot 2025-07-05 132919](https://github.com/user-attachments/assets/0e198f93-3744-4ddd-b423-da9248b7ba69)
